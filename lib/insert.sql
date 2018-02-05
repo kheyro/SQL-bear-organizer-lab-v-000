@@ -1,8 +1,8 @@
-INSERT INTO students (name) VALUES ("Mr. Chocolate");
-INSERT INTO students (name) VALUES ("Rowdy");
-INSERT INTO students (name) VALUES ("Tabitha");
-INSERT INTO students (name) VALUES ("Sergeant Brown");
-INSERT INTO students (name) VALUES ("Melissa");
-INSERT INTO students (name) VALUES ("Grinch");
-INSERT INTO students (name) VALUES ("Wendy");
-INSERT INTO students (name) VALUES (NULL);
+INSERT INTO bears (name) VALUES ("Mr. Chocolate");
+INSERT INTO bears (name) VALUES ("Rowdy");
+INSERT INTO bears (name) VALUES ("Tabitha");
+INSERT INTO bears (name) VALUES ("Sergeant Brown");
+INSERT INTO bears (name) VALUES ("Melissa");
+INSERT INTO bears (name) VALUES ("Grinch");
+INSERT INTO bears (name) VALUES ("Wendy");
+INSERT INTO bears (name) VALUES (NULL);
